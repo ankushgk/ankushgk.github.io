@@ -19,6 +19,7 @@ These are considerably different flow fields, or stirring mechanisms. The challe
 
 > This is an ongoing project, done under the guidance of [Prof. Aravinda Raghavan](https://universe.bits-pilani.ac.in/Hyderabad/aravindaraghavan/profile) and [Prof. Meenakshi Vishwanathan](https://universe.bits-pilani.ac.in/Hyderabad/meenakshiviswanathan/profile) at [BITS Pilani Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/).
 
+<embed src="{{ site.baseurl }}/files/ankush_Qmixing.pdf" width="600" height="700" type='application/pdf'>
 
 [^1]: [Eckart, C. (1948). An analysis of the stirring and mixing processes in incompressible fluids. Journal of Marine Research, 7(03-11), 265-275](https://images.peabody.yale.edu/publications/jmr/jmr07-03-11.pdf)
 [^2]: [Reynolds, O. (1894). Study of fluid motion by means of coloured bands. Nature, 50(1285), 161-164.](https://www.nature.com/articles/050161a0#citeas)
