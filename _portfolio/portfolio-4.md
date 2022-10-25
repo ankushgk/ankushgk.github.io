@@ -13,7 +13,7 @@ I worked on simulating two different channel configurations in 2D:
 * With a pair of alternate rectangular baffles protruding from the side walls which produces trapped vortex or vortices.
 
 
-These are considerably different flow fields, or stirring mechanisms. The challenge is to see how mixing is actually happening, and if we can relate it to the earlier mentioned stretching and folding mechanism. Turns out, we can! More on this coming soon.
+These are considerably different flow fields, or stirring mechanisms. The challenge is to see how mixing is actually happening, and if we can relate it to the earlier mentioned stretching and folding mechanism. Turns out, we can! More on this coming soon. You can check out the [preprint](https://arxiv.org/abs/2210.12171).
 
 [^1] [^2] [^3] [^4] [^5]
 
