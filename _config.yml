@@ -72,10 +72,10 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-RJK85V22L9"
+google_analytics: "G-RJK85V22L9"
+  # provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  # google:
+  #   tracking_id          : "G-RJK85V22L9"
 
 
 # Site Author
