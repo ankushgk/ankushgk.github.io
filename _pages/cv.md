@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="{{ site.baseurl }}/files/CV_ankush_gk1.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CV_ankush_gk2.pdf" width="600" height="700" type='application/pdf'>
 
