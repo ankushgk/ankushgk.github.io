@@ -11,6 +11,6 @@ Hi! I am Ankush (pronounced as Un-koo-sh), currently a Visiting Research Student
 
 I intend to pursue a Ph.D. where I can do good science at the intersection of Physics and Biology.  
 
-I enjoy playing [Ultimate Frisbee](https://vimeo.com/abracadabras/ultimate), [reading books](https://www.goodreads.com/user/show/64670551-ankush-gk), [sketching](https://montageofstrokes.tumblr.com/), and watching TV shows.
+I enjoy playing [Ultimate Frisbee](https://vimeo.com/abracadabras/ultimate), [reading books](https://www.goodreads.com/user/show/64670551-ankush-gk) and watching TV shows.
 
 I also have a tumblr page, [Montage of Strokes](https://montageofstrokes.tumblr.com/), where I post non-scientific sketches and doodles.
