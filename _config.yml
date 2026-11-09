@@ -83,7 +83,7 @@ author:
   name             : "Ankush GK"
   avatar           : "ankush_gk_Oct2024 copy.png"
   bio              : "Interested in problems where Physics and Biology meet"
-  location         : "Merced, California"
+  # location         : "Merced, California"
   employer         : "University of California, Merced"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
